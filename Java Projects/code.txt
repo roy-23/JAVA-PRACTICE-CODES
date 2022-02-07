@@ -1,7 +1,0 @@
-package co.roy;
-
-public class P1_Hello_World {
-	public static void main(String[] args) {
-		System.out.print("Hello World");
-	}
-}
